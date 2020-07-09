@@ -10,7 +10,7 @@ I am a French developer specializing in the development of web applications. My 
 - [VueJS](https://vuejs.org/)
 - [NuxtJS](https://nuxtjs.org/)
 
-![icons technologies](./banner.jpg)
+![icons technologies](https://github.com/LeadcodeDev/LeadcodeDev/blob/master/banner.jpg)
 
 # 🔗 Follow me
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeadcodeDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LeadcodeDev)
