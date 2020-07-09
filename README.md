@@ -1,5 +1,5 @@
 # 👋 Hi there !
-I am a French developer specializing in the development of web applications. My name is Baptiste, I'm 23, currently a fullstack web developer since 2018 on freelance !
+I am a French developer specializing in the development of web applications. My name is Baptiste, I'm 23 years old, currently a fullstack web developer since 2018 on freelance !
 
 # 🚀 What I use ?
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
