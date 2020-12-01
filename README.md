@@ -2,7 +2,7 @@
 I'm french developper specialize on the MAVN stack based on Adonis framework for my backend and Vue for frontend ❤
 My name is Baptiste, I'm 23 years old and currently a fullstack web developer since now 3 years on freelance !
 
-# 🚀 What I use ?
+# 🚀 What I use ? MAVN stack ❤
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [AdonisJS](https://preview.adonisjs.com/)
 - [Symfony](https://symfony.com/doc/current/security.html)
@@ -10,6 +10,9 @@ My name is Baptiste, I'm 23 years old and currently a fullstack web developer si
 - SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
 
 ![icons technologies](https://github.com/LeadcodeDev/LeadcodeDev/blob/master/banner.jpg)
+
+# My activity
+![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
 
 # 🔗 Follow me
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeadcodeDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LeadcodeDev)
