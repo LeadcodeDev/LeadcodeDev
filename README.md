@@ -13,6 +13,7 @@ My name is Baptiste, I'm 24 years old and currently a fullstack web developer si
 
 # My activity
 ![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔗 Follow me
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeadcodeDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LeadcodeDev)
