@@ -1,6 +1,6 @@
 # 👋 Hi there !
 I'm french developper specialize on the MAVN stack based on Adonis framework for my backend and Vue for frontend ❤
-My name is Baptiste, I'm 24 years old and currently a fullstack web developer since now 3 years on freelance !
+My name is Baptiste, I'm 26 years old and currently a fullstack web developer since now 8 years on freelance !
 
 # 🚀 What I use ? MAVN stack ❤
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
