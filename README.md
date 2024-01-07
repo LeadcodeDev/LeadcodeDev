@@ -33,6 +33,3 @@ These choices can be explained by the robustness, flexibility and active communi
 [![Github Follow](https://skillicons.dev/icons?i=github)](https://github.com/LeadcodeDev)
 [![Linkedin Follow](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-parmantier/)
 [![Discord Follow](https://skillicons.dev/icons?i=discord)](https://discord.com/users/240561194958716928)
-
-# Freelance
-[![Leadcode.fr](https://github.com/LeadcodeDev/LeadcodeDev/blob/master/leadcode.png)](https://www.leadcode.fr/)
