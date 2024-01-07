@@ -1,25 +1,38 @@
 # 👋 Hi there !
-I'm french developper specialize on the MAVN stack based on Adonis framework for my backend and Vue for frontend ❤
-My name is Baptiste, I'm 26 years old and currently a fullstack web developer since now 8 years on freelance !
+My name is Baptiste, I've been a developer since 2016.
 
-# 🚀 What I use ? MAVN stack ❤
-- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- [AdonisJS](https://preview.adonisjs.com/)
-- [Symfony](https://symfony.com/doc/current/security.html)
-- CSR : [VueJS](https://vuejs.org/) [ReactJS](https://reactjs.org/)
-- SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
+Over the years, I've had the opportunity to work on a variety of challenging projects.
 
-![icons technologies](https://github.com/LeadcodeDev/LeadcodeDev/blob/master/banner.jpg)
+My journey in development began with a deep passion for the infinite capacity for creation whose only limit is that of the imagination. 
+I've continually expanded my skills to keep up with the latest technological trends.
+
+## What languages do I use ?
+I use HTML, CSS, JS, Typescript and Dart, which form the solid foundation of my web development and application projects. 
+
+With the constant evolution of web development, TypeScript has become a valuable addition to JavaScript. Its static typing offers greater security and easier maintenance of large projects, while improving the quality of my code.
+
+Dart, for its part, is a language I'm exploring more and more, particularly for mobile application development with Flutter. In 
+I'm developing the Mineral project in the same language
+
+![icons technologies](https://skillicons.dev/icons?i=html,css,js,ts,dart)
+
+## What technologies and tools do I use?
+I'm often asked what technologies I use in my various projects, both from a personal and professional point of view.
+
+It's a question that always prompts careful consideration, as the choice of technologies is crucial to the success of a project. As far as web development is concerned, I often opt for modern frameworks such as Adonis for Typescript, Vue.js or React.js for the client side. 
+
+These choices can be explained by the robustness, flexibility and active community that surrounds these technologies. In addition, the use of databases like PostgreSQL completes my web projects, offering efficient data management.
+
+![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,windicss,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,github,postgres,idea&perline=9)
 
 # My activity
 ![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadcodeDev&layout=compact)
 
 # 🔗 Follow me
-[![Twitter Follow](https://img.shields.io/twitter/follow/LeadcodeDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LeadcodeDev)
-[![Github Follow](https://img.shields.io/github/followers/LeadcodeDev?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/LeadcodeDev)
-[![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Baptiste%20Parmantier&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/baptiste-parmantier/)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Freeze%236824&color=7289DA&logo=Discord&style=for-the-badge)]()
+[![Twitter Follow](https://skillicons.dev/icons?i=twitter)](https://twitter.com/LeadcodeDev)
+[![Github Follow](https://skillicons.dev/icons?i=github)](https://github.com/LeadcodeDev)
+[![Linkedin Follow](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-parmantier/)
+[![Discord Follow](https://skillicons.dev/icons?i=discord)](https://discord.com/users/240561194958716928)
 
 # Freelance
 [![Leadcode.fr](https://github.com/LeadcodeDev/LeadcodeDev/blob/master/leadcode.png)](https://www.leadcode.fr/)
