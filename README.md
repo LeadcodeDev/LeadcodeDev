@@ -14,7 +14,7 @@ With the constant evolution of web development, TypeScript has become a valuable
 Dart, for its part, is a language I'm exploring more and more, particularly for mobile application development with Flutter. In 
 I'm developing the Mineral project in the same language
 
-![icons technologies](https://skillicons.dev/icons?i=html,css,js,ts,dart,rust)
+![icons technologies](https://skillicons.dev/icons?i=html,css,ts,dart,rust)
 
 ## What technologies and tools do I use?
 I'm often asked what technologies I use in my various projects, both from a personal and professional point of view.
@@ -23,7 +23,7 @@ It's a question that always prompts careful consideration, as the choice of tech
 
 These choices can be explained by the robustness, flexibility and active community that surrounds these technologies. In addition, the use of databases like PostgreSQL completes my web projects, offering efficient data management.
 
-![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,windicss,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,kubernetes,github,postgres,idea,webstorm,androidstudio,postman&perline=9)
+![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,kubernetes,git,postgres,idea,webstorm,androidstudio,postman&perline=9)
 
 # My activity
 ![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
