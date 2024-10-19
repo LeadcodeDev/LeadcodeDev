@@ -23,7 +23,7 @@ It's a question that always prompts careful consideration, as the choice of tech
 
 These choices can be explained by the robustness, flexibility and active community that surrounds these technologies. In addition, the use of databases like PostgreSQL completes my web projects, offering efficient data management.
 
-![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,astro,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,kubernetes,git,postgres,idea,webstorm,rustrover,androidstudio,postman&perline=9)
+![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,astro,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,kubernetes,git,postgres,idea,webstorm,androidstudio,postman&perline=9)
 
 # My activity
 ![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
