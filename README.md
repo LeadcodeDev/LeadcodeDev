@@ -14,7 +14,7 @@ With the constant evolution of web development, TypeScript has become a valuable
 Dart, for its part, is a language I'm exploring more and more, particularly for mobile application development with Flutter. In 
 I'm developing the Mineral project in the same language
 
-![icons technologies](https://skillicons.dev/icons?i=html,css,ts,dart,rust)
+![icons technologies](https://skillicons.dev/icons?i=html,css,js,ts,dart,rust)
 
 ## What technologies and tools do I use?
 I'm often asked what technologies I use in my various projects, both from a personal and professional point of view.
