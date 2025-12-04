@@ -25,9 +25,6 @@ These choices can be explained by the robustness, flexibility and active communi
 
 ![icons technologies](https://skillicons.dev/icons?i=scss,tailwind,nodejs,adonis,vite,vue,react,nuxt,next,redux,reactivex,astro,symfony,laravel,flutter,supabase,rabbitmq,redis,docker,kubernetes,git,postgres,idea,webstorm,androidstudio,postman&perline=9)
 
-# My activity
-![activity](https://github-readme-stats.vercel.app/api?username=LeadcodeDev&show_icons=true)
-
 # 🔗 Follow me
 [![Twitter Follow](https://skillicons.dev/icons?i=twitter)](https://twitter.com/LeadcodeDev)
 [![Github Follow](https://skillicons.dev/icons?i=github)](https://github.com/LeadcodeDev)
